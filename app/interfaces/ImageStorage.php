@@ -5,4 +5,4 @@ use Illuminate\Http\Request;
 
 interface ImageStorage {
     public function store(Request $request): void;
-}
+}   
